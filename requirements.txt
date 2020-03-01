@@ -1,0 +1,3 @@
+pyTelegrambotApi
+pyowm
+apiai
